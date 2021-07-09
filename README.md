@@ -27,7 +27,7 @@
     <a href="https://instagram.com/crazyfox.exe" target="_blank">
     <img src="https://img.shields.io/badge/instagram-grey?style=for-the-badge&logo=instagram&logoColor=white&labelColor=F15680">
   </a>
-      <a href="https://instagram.com/crazyfox.exe" target="_blank">
+      <a href="https://github.com/SadraKhorami/esx_scoreboard/blob/main/LICENSE" target="_blank">
     <img src="https://img.shields.io/apm/l/vim-mode?style=for-the-badge">
   </a>
 </p>
